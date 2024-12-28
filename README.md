@@ -1,20 +1,22 @@
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1800&pause=3600&color=0CEAF7&center=true&width=435&lines=Hi!+Welcome+to+My+GitHub+Profile!+%F0%9F%91%8B" alt="Typing SVG"></a></h3>
 
 
-<h1>About me</h1>
+# 🌠 About me:
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTdheHdpMTRmYnljcG1xaG92aTVqaHhzMmszcXJ2cTN3eGdyaXB5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="coding_image" width="400" align="right">
 <br></br>
+  
+  
+ 📚 I’m currently studying at **EIILM Kolkata**, pursuing **BCA**.
 
+ 🌱 learning **Python, ML**
 
-- 🌱 I’m currently learning **Python, ML**
+ 📫 Ping me at **foxeiop@gmail.com**
 
-- 📫 reach me **foxeiop@gmail.com**
-
-- ⚡ Fun fact **I think I am creative and enthusiastic.**
+ ⚡ Fun fact **I think I am creative and enthusiastic.**
 
 <br></br>
 # 🌐 Lets Connect:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/https://discord.gg/ncYY8E7TPA) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_shivam_0p) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/foxei0p) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/foxei0p) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_shivam_0p) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-verma-foxei0p/)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/foxei0p) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/https://discord.gg/ncYY8E7TPA)
 <br></br>
 <br></br>
 # 💻 Tech Stack:

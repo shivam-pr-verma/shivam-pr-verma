@@ -6,6 +6,11 @@
 <br></br>
 
 
+
+
+
+
+
 - 🌱 I’m currently learning **Python, ML**
 
 - 📫 How to reach me **foxeiop@gmail.com**
@@ -28,10 +33,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FoXei0p&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 <br></br>
 <br></br>
-### ✍️ Dev Quote's
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## ✍️ Dev Quote's
 
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&border=true)
 <br></br>
+
+
 
 ## 🐍 My Contributions Destroyer
 <picture>

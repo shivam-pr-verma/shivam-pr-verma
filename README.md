@@ -1,9 +1,11 @@
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1800&pause=3600&color=0CEAF7&center=true&width=435&lines=Hi!+Welcome+to+My+GitHub+Profile!+%F0%9F%91%8B" alt="Typing SVG"></a></h3>
 
 
-# 💫 About Me:
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTdheHdpMTRmYnljcG1xaG92aTVqaHhzMmszcXJ2cTN3eGdyaXB5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="coding_image" width="400" align="right">
 
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTdheHdpMTRmYnljcG1xaG92aTVqaHhzMmszcXJ2cTN3eGdyaXB5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="coding_image" width="400" align="right">
+<br></br>
+
+ 💫 About Me:
 - 🌱 I’m currently learning **Python, ML**
 
 - 📫 How to reach me **foxeiop@gmail.com**

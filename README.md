@@ -3,20 +3,12 @@
 
 # 💫 About Me:
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTdheHdpMTRmYnljcG1xaG92aTVqaHhzMmszcXJ2cTN3eGdyaXB5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="coding_image" width="400" align="right">
-<br></br>
-
-
-
-
-
-
 
 - 🌱 I’m currently learning **Python, ML**
 
 - 📫 How to reach me **foxeiop@gmail.com**
 
 - ⚡ Fun fact **I think I am creative and enthusiastic.**
-
 
 <br></br>
 # 🌐 Lets Connect:

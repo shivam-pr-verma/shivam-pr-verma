@@ -1,3 +1,4 @@
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0CEAF7&width=435&lines=H!+Welcome+to+My+GitHub+Profile!+%F0%9F%91%8B" alt="Typing SVG"/></a></h3>
 # 💫 About Me:
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTdheHdpMTRmYnljcG1xaG92aTVqaHhzMmszcXJ2cTN3eGdyaXB5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="coding_image" width="400" align="right">
 <p>🌱 I’m currently learning **Python, ML**<br><br> 📫 How to reach me **foxeiop@gmail.com**<br><br>⚡ Fun fact **I think I am creative and enthusiastic.**<p>
@@ -17,7 +18,7 @@
 <br></br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FoXei0p&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote's
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
@@ -26,3 +27,9 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/foxei0p) 
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FoXei0p/FoXei0p/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FoXei0p/FoXei0p/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/FoXei0p/FoXei0p/output/github-snake-dark.svg" />
+</picture>

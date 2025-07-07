@@ -24,9 +24,9 @@
 <br></br>
 <br></br>
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=FoXei0p&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com?user=FoXei0p&theme=highcontrast&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FoXei0p&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=shivam-pr-verma&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com?user=shivam-pr-verma&theme=highcontrast&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-pr-verma&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 <br></br>
 <br></br>
 ## ✍️ Dev Quote's
@@ -38,9 +38,9 @@
 
 ## 🐍 My Contributions Destroyer
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FoXei0p/FoXei0p/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FoXei0p/FoXei0p/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/FoXei0p/FoXei0p/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivam-pr-verma/shivam-pr-verma/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivam-pr-verma/shivam-pr-verma/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/shivam-pr-verma/shivam-pr-verma/output/github-snake-dark.svg" />
 </picture>
 <br></br>
 
